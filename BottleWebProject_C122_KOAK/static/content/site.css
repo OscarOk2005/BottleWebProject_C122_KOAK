@@ -213,3 +213,26 @@ hr {
     font-size: 16px;
     font-weight: bold;
 }
+
+.resultTableHeader {
+    width: 50px;
+    font-size: 20px;
+}
+
+.resultTableCell {
+    border: 1px solid black;
+    width: 50px;
+    font-size: 16px;
+}
+
+.daystarLabel{
+    margin-top: 10px;
+}
+#Welcomemessage {
+    background-color: #428bca;
+}
+
+#Welcomemessage * {
+    color: white !important;
+    font-size: 20px;
+}
